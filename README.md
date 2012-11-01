@@ -8,4 +8,4 @@ This tool is based on [this tool](http://tools.dspace.cam.ac.uk/metadatamapper/)
 	input.csv
 
 #Command arguments:
-    -d {path to}\test -l {path to}\license.txt -s {path to}\input4.csv
+    -d {path to}\test -l {path to}\license.txt -s {path to}\input.csv
